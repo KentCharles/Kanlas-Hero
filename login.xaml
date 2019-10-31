@@ -1,0 +1,33 @@
+<Grid Uid="login"  Width="375" Height="812" Background="#ffffffff" ClipToBounds="True" >
+    <Border  Width="375" Height="83" Background="#ffffffff" BorderBrush="#ff707070" Margin="0,729,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <Canvas  Width="658" Height="677" Margin="-145,67,0,0" HorizontalAlignment="Left" VerticalAlignment="Top">
+        <TextBlock  Text="Kanlas" TextAlignment="left" FontFamily="Roboto"  FontSize="212" Foreground="#fffc4f05" Canvas.Left="0" Canvas.Top="224.00003051757812"  />
+        <TextBlock  Text="Hero" TextAlignment="left" FontFamily="Roboto"  FontSize="209" Foreground="#fffc4f05" Canvas.Left="0" Canvas.Top="426"  />
+        <Ellipse  Width="198" Height="198" Fill="#ff0076ff" Stroke="#ff707070" Canvas.Left="0" Canvas.Top="0"  />
+        <Ellipse  Width="198" Height="198" Fill="#fffc4f05" Stroke="#ff707070" Canvas.Left="237" Canvas.Top="0"  />
+        <Path  Width="185" Height="196" Stretch="uniform" Data="M 223.0097045898438 1395.999755859375 L 223.0097045898438 1592.8564453125 L 408.4667053222656 1592.8564453125 L 223.0097045898438 1395.999755859375 Z" Fill="#ff0076ff" Stroke="#ff0076ff" Canvas.Left="471.79766845703125" Canvas.Top="0.1790771484375"  />
+    </Canvas>
+    
+    <Line  X1="0" Y1="0" X2="162" Y2="0" Stroke="#ff000000" Margin="106.5,799.5,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <Canvas  Width="375" Height="44" Margin="0,0,0,0" HorizontalAlignment="Left" VerticalAlignment="Top">
+        <Border  Width="375" Height="44" Background="#ffffffff" BorderBrush="#ff707070" Canvas.Left="0" Canvas.Top="0"  />
+        <TextBlock  Text="9:41" TextAlignment="left" FontFamily="Roboto"  FontSize="15" Foreground="#ff000000" Canvas.Left="29" Canvas.Top="13"  />
+        <TextBlock  Text="" TextAlignment="left" FontFamily="Font Awesome 5 Free"  FontSize="15" Foreground="#ff000000" Canvas.Left="337" Canvas.Top="14"  />
+        <TextBlock  Text="" TextAlignment="left" FontFamily="Font Awesome 5 Free"  FontSize="15" Foreground="#ff000000" Canvas.Left="312" Canvas.Top="14"  />
+        <TextBlock  Text="" TextAlignment="left" FontFamily="Font Awesome 5 Free"  FontSize="15" Foreground="#ff000000" Canvas.Left="287" Canvas.Top="14"  />
+    </Canvas>
+    
+    <TextBlock  Text="Kanlas" TextAlignment="left" FontFamily="Roboto"  FontSize="52" Foreground="#fffc4f05" Margin="64,188,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <TextBlock  Text="Hero" TextAlignment="left" FontFamily="Roboto"  FontSize="51" Foreground="#fffc4f05" Margin="64,237,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <Ellipse  Width="48" Height="48" Fill="#ff0076ff" Stroke="#ff707070" Margin="64,134,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <Ellipse  Width="48" Height="48" Fill="#fffc4f05" Stroke="#ff707070" Margin="121,134,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <Path  Width="44" Height="47" Stretch="uniform" Data="M 223.0097351074219 1396 L 223.0097351074219 1443.642456054688 L 267.8932495117188 1443.642456054688 L 223.0097351074219 1396 Z" Fill="#ff0076ff" Stroke="#ff0076ff" Margin="178.00973510742188,134,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" /><Line  X1="0" Y1="0" X2="235" Y2="0" Stroke="#ff707070" Margin="69.5,485.5,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <TextBlock  Text="Username" TextAlignment="left" FontFamily="Roboto"  FontSize="16" Foreground="#fffc4f05" Margin="70,456,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <Line  X1="0" Y1="0" X2="235" Y2="0" Stroke="#ff707070" Margin="70.5,552.5,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <TextBlock  Text="Password" TextAlignment="left" FontFamily="Roboto"  FontSize="16" Foreground="#fffc4f05" Margin="71,523,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <TextBlock  Text="Forgot Password?" TextAlignment="left" FontFamily="Roboto"  FontSize="16" Foreground="#ff0076ff" Margin="66,699,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <Canvas  Width="118" Height="50" Margin="70,590,0,0" HorizontalAlignment="Left" VerticalAlignment="Top">
+        <Canvas  Width="118" Height="50" Canvas.Left="0" Canvas.Top="0" ><Border  Width="118" Height="50" Background="#ff0076ff" BorderBrush="#ff707070" Canvas.Left="0" Canvas.Top="0"  />
+            <TextBlock  Text="Sign in" TextAlignment="left" FontFamily="Roboto"  FontSize="16" Foreground="#ffffffff" Canvas.Left="35" Canvas.Top="16"  /></Canvas>
+    </Canvas>
+</Grid>

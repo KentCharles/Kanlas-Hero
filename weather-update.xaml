@@ -1,0 +1,46 @@
+<Grid Uid="weather-update"  Width="375" Height="812" Background="#ffffffff" ClipToBounds="True" >
+    <Canvas  Width="375" Height="44" Margin="0,0,0,0" HorizontalAlignment="Left" VerticalAlignment="Top">
+        <Border  Width="375" Height="44" Background="#ffffffff" BorderBrush="#ff707070" Canvas.Left="0" Canvas.Top="0"  />
+        <TextBlock  Text="9:41" TextAlignment="left" FontFamily="Roboto"  FontSize="15" Foreground="#ff000000" Canvas.Left="29" Canvas.Top="13"  />
+        <TextBlock  Text="" TextAlignment="left" FontFamily="Font Awesome 5 Free"  FontSize="15" Foreground="#ff000000" Canvas.Left="337" Canvas.Top="14"  />
+        <TextBlock  Text="" TextAlignment="left" FontFamily="Font Awesome 5 Free"  FontSize="15" Foreground="#ff000000" Canvas.Left="312" Canvas.Top="14"  />
+        <TextBlock  Text="" TextAlignment="left" FontFamily="Font Awesome 5 Free"  FontSize="15" Foreground="#ff000000" Canvas.Left="287" Canvas.Top="14"  />
+    </Canvas>
+    <Border  Width="375" Height="83" Background="#ffffffff" BorderBrush="#ff707070" Margin="0,729,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <Line  X1="0" Y1="0" X2="162" Y2="0" Stroke="#ff000000" Margin="106.5,799.5,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <TextBlock  Text="" TextAlignment="left" FontFamily="Font Awesome 5 Free"  FontSize="38" Foreground="#ff8e8e93" Margin="97,741,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <TextBlock  Text="" TextAlignment="left" FontFamily="Font Awesome 5 Free"  FontSize="38" Foreground="#ff0076ff" Margin="236,741,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <Canvas  Width="284" Height="50" Margin="75,73,0,0" HorizontalAlignment="Left" VerticalAlignment="Top">
+        <Path  Width="284" Height="50" Stretch="uniform" Data="M 12 0 L 272 0 C 278.6274108886719 0 284 5.37258243560791 284 12 L 284 38 C 284 44.62741851806641 278.6274108886719 50 272 50 L 12 50 C 5.37258243560791 50 0 44.62741851806641 0 38 L 0 12 C 0 5.37258243560791 5.37258243560791 0 12 0 Z" Fill="#ffffffff" Stroke="#ff707070" Canvas.Left="0" Canvas.Top="0"  />
+        <TextBlock  Text="Bongabong, Sultan Mastura" TextAlignment="left" FontFamily="Roboto"  FontSize="16" Foreground="#ff4f4f4f" Canvas.Left="22" Canvas.Top="16"  />
+        <TextBlock  Text="" TextAlignment="left" FontFamily="Font Awesome 5 Free"  FontSize="15" Foreground="#ff0076ff" Canvas.Left="241" Canvas.Top="18"  />
+    </Canvas>
+    <Ellipse  Width="50" Height="50" Stroke="#ff707070" Margin="16,73,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <Border  Width="160" Height="160" Background="#ffffffff" BorderBrush="#ff707070" Margin="199,153,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <Border  Width="160" Height="160" Background="#ffffffff" BorderBrush="#ff707070" Margin="16,339,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <Border  Width="160" Height="160" Background="#ffffffff" BorderBrush="#ff707070" Margin="199,342,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <Border  Width="160" Height="160" Background="#ffffffff" BorderBrush="#ff707070" Margin="16,528,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <Border  Width="160" Height="160" Background="#ffffffff" BorderBrush="#ff707070" Margin="199,531,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <TextBlock  Text="Temperature" TextAlignment="left" FontFamily="Roboto"  FontSize="16" Foreground="#ff0076ff" Margin="234,164,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <TextBlock  Text="Rain Probability" TextAlignment="left" FontFamily="Roboto"  FontSize="16" Foreground="#ff0076ff" Margin="40,353,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <TextBlock  Text="Humidity" TextAlignment="left" FontFamily="Roboto"  FontSize="16" Foreground="#ff0076ff" Margin="247,353,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <TextBlock  Text="Rain" TextAlignment="left" FontFamily="Roboto"  FontSize="16" Foreground="#ff0076ff" Margin="80,540,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <TextBlock  Text="Thunderstorm" TextAlignment="left" FontFamily="Roboto"  FontSize="16" Foreground="#ff0076ff" Margin="228,540,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <TextBlock  Text="" TextAlignment="left" FontFamily="Font Awesome 5 Free"  FontSize="24" Foreground="#ff878787" Margin="223,200,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <TextBlock  Text="" TextAlignment="left" FontFamily="Font Awesome 5 Free"  FontSize="24" Foreground="#ff878787" Margin="219,389,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <TextBlock  Text="" TextAlignment="left" FontFamily="Font Awesome 5 Free"  FontSize="24" Foreground="#ff878787" Margin="36,389,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <TextBlock  Text="" TextAlignment="left" FontFamily="Font Awesome 5 Free"  FontSize="24" Foreground="#ff878787" Margin="218,576,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <TextBlock  Text="" TextAlignment="left" FontFamily="Font Awesome 5 Free"  FontSize="24" Foreground="#ff878787" Margin="35,576,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <TextBlock  Text="27  C" TextAlignment="left" FontFamily="Roboto"  FontSize="40" Foreground="#fffc4f05" Margin="234,237,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <TextBlock  Text="40%" TextAlignment="left" FontFamily="Roboto"  FontSize="40" Foreground="#fffc4f05" Margin="57,430,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <TextBlock  Text="100%" TextAlignment="left" FontFamily="Roboto"  FontSize="40" Foreground="#fffc4f05" Margin="231,430,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <TextBlock  Text="00mm" TextAlignment="left" FontFamily="Roboto"  FontSize="40" Foreground="#fffc4f05" Margin="39,611,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <Ellipse  Width="13" Height="13" Fill="#ffffffff" Stroke="#fffc4f05" Margin="289,238,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <TextBlock  Text="no rain" TextAlignment="left" FontFamily="Roboto"  FontSize="18" Foreground="#ffc3c3c3" Margin="67,653,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <TextBlock  Text="40%" TextAlignment="left" FontFamily="Roboto"  FontSize="40" Foreground="#fffc4f05" Margin="242,613,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <TextBlock  Text="OCTOBER" TextAlignment="left" FontFamily="Roboto"  FontSize="22" Foreground="#ff4f4f4f" Margin="46,201,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <TextBlock  Text="20" TextAlignment="left" FontFamily="Roboto"  FontSize="57" Foreground="#ff4f4f4f" Margin="55,220,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <TextBlock  Text="19" TextAlignment="left" FontFamily="Roboto"  FontSize="16" Foreground="#ff4f4f4f" Margin="129,259,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <Line  X1="30" Y1="0" X2="0" Y2="44" Stroke="#ff4f4f4f" Margin="106.5,246.5,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <TextBlock  Text="Sun" TextAlignment="left" FontFamily="Roboto"  FontSize="16" Foreground="#ff4f4f4f" Margin="46,179,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+</Grid>

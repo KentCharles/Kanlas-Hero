@@ -1,0 +1,64 @@
+<Grid Uid="alert"  Width="375" Height="812" Background="#ffffffff" ClipToBounds="True" >
+    <Border  Width="375" Height="812" BorderBrush="#ff707070" Margin="0,0,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <Canvas  Width="620" Height="827" Margin="-40,-20,0,0" HorizontalAlignment="Left" VerticalAlignment="Top">
+        <Border  Width="620" Height="827" BorderBrush="#ff707070" Canvas.Left="0" Canvas.Top="0"  />
+        <Canvas  Width="375" Height="799" Canvas.Left="40" Canvas.Top="20" >
+            <Line  X1="0" Y1="0" X2="162" Y2="0" Stroke="#ff000000" Canvas.Left="106.5" Canvas.Top="799.5"  />
+            <Canvas  Width="375" Height="3" Canvas.Left="0" Canvas.Top="725.8486938476562" >
+                <Canvas  Width="375" Height="2" Canvas.Left="0" Canvas.Top="0" >
+                    <Border  Width="375" Height="1" Background="#ffffffff" BorderBrush="#ff707070" Canvas.Left="0" Canvas.Top="0.15130615234375"  />
+                    <Canvas  Width="165" Height="2" Canvas.Left="16" Canvas.Top="0.15130615234375" >
+                        <Border  Width="165" Height="0.000010000005204346962" Background="#ff44db5e" BorderBrush="#ff707070" Canvas.Left="0" Canvas.Top="0"  />
+                        <TextBlock  Text="Save Path" TextAlignment="left" FontFamily="Roboto"  FontSize="1" Foreground="#ffffffff" Canvas.Left="47" Canvas.Top="0"  />
+                    </Canvas>
+                    <Canvas  Width="165" Height="1" Canvas.Left="194" Canvas.Top="0" >
+                        <Border  Width="165" Height="0.000010000005204346962" Background="#ff0076ff" BorderBrush="#ff707070" Canvas.Left="0" Canvas.Top="0.15130615234375"  />
+                        <TextBlock  Text="Start" TextAlignment="left" FontFamily="Roboto"  FontSize="1" Foreground="#ffffffff" Canvas.Left="65.52001953125" Canvas.Top="0"  />
+                    </Canvas>
+                </Canvas>
+                <TextBlock  Text="" TextAlignment="left" FontFamily="Font Awesome 5 Free"  FontSize="1" Foreground="#ff000000" Canvas.Left="16" Canvas.Top="1.15130615234375"  />
+                <Grid  Uid="Repeat Grid 1"  Width="344" Height="2" Canvas.Left="16" Canvas.Top="1.15130615234375"  ClipToBounds="True">
+                    <Canvas  Width="343" Height="19" Margin="0,0,0,0" HorizontalAlignment="Left" VerticalAlignment="Top">
+                        <TextBlock  Text="Bongabong, Sultan Mastura" TextAlignment="left" FontFamily="Roboto"  FontSize="16" Foreground="#ff000000" Canvas.Left="0" Canvas.Top="0"  />
+                        <TextBlock  Text="100m" TextAlignment="left" FontFamily="Roboto"  FontSize="16" Foreground="#ff000000" Canvas.Left="302" Canvas.Top="0"  />
+                    </Canvas>
+                </Grid>
+            </Canvas>
+            <Canvas  Width="375" Height="44" Canvas.Left="0" Canvas.Top="0" >
+                <Border  Width="375" Height="44" Background="#ffffffff" BorderBrush="#ff707070" Canvas.Left="0" Canvas.Top="0"  />
+                <TextBlock  Text="9:41" TextAlignment="left" FontFamily="Roboto"  FontSize="15" Foreground="#ff000000" Canvas.Left="29" Canvas.Top="13"  />
+                <TextBlock  Text="" TextAlignment="left" FontFamily="Font Awesome 5 Free"  FontSize="15" Foreground="#ff000000" Canvas.Left="337" Canvas.Top="14"  />
+                <TextBlock  Text="" TextAlignment="left" FontFamily="Font Awesome 5 Free"  FontSize="15" Foreground="#ff000000" Canvas.Left="312" Canvas.Top="14"  />
+                <TextBlock  Text="" TextAlignment="left" FontFamily="Font Awesome 5 Free"  FontSize="15" Foreground="#ff000000" Canvas.Left="287" Canvas.Top="14"  />
+            </Canvas>
+        </Canvas>
+        <Canvas  Width="0" Height="0" Canvas.Left="-3520" Canvas.Top="20" ></Canvas>
+        <Ellipse  Width="80" Height="80" Fill="#ffff3824" Stroke="#ff000000" Canvas.Left="188" Canvas.Top="632"  />
+        <TextBlock  Text="" TextAlignment="left" FontFamily="Font Awesome 5 Free"  FontSize="23" Foreground="#ff000000" Canvas.Left="68" Canvas.Top="96"  />
+    </Canvas>
+    <Canvas  Width="375" Height="768" Margin="0,44,0,0" HorizontalAlignment="Left" VerticalAlignment="Top">
+        <Line  X1="0" Y1="0" X2="0" Y2="768" Stroke="#ffe4e4e4" Canvas.Left="270" Canvas.Top="0"  />
+        <Line  X1="0" Y1="0" X2="375" Y2="0" Stroke="#ffe4e4e4" Canvas.Left="0" Canvas.Top="228"  />
+        <Line  X1="0" Y1="0" X2="375" Y2="0" Stroke="#ffe4e4e4" Canvas.Left="0" Canvas.Top="488"  />
+        <Line  X1="0" Y1="0" X2="0" Y2="768" Stroke="#ffe4e4e4" Canvas.Left="107" Canvas.Top="0"  />
+    </Canvas>
+    <Border  Width="375" Height="83" Background="#ffffffff" BorderBrush="#ff707070" Margin="0,729,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <TextBlock  Text="" TextAlignment="left" FontFamily="Font Awesome 5 Free"  FontSize="38" Foreground="#ff0076ff" Margin="97,741,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <TextBlock  Text="" TextAlignment="left" FontFamily="Font Awesome 5 Free"  FontSize="38" Foreground="#ff8e8e93" Margin="236,741,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <Line  X1="0" Y1="0" X2="162" Y2="0" Stroke="#ff000000" Margin="106.5,799.5,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <Border  Width="375" Height="819" Background="#ff0d0d0d" BorderBrush="#ff707070" Margin="0,-7,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <Canvas  Width="316" Height="207" Margin="30,305,0,0" HorizontalAlignment="Left" VerticalAlignment="Top">
+        <Canvas  Width="316" Height="207" Canvas.Left="0" Canvas.Top="0" >
+            <Border  Width="316" Height="207" Background="#ffffffff" BorderBrush="#ff0075fd" Canvas.Left="0" Canvas.Top="0"  />
+        </Canvas>
+    </Canvas>
+    <Canvas  Width="284" Height="165" Margin="46,328,0,0" HorizontalAlignment="Left" VerticalAlignment="Top">
+        <Canvas  Width="140" Height="50" Canvas.Left="72" Canvas.Top="115" >
+            <Canvas  Width="140" Height="50" Canvas.Left="0" Canvas.Top="0" >
+                <Border  Width="140" Height="50" Background="#ff0076ff" BorderBrush="#ff707070" Canvas.Left="0" Canvas.Top="0"  />
+                <TextBlock  Text="Ok" TextAlignment="left" FontFamily="Roboto"  FontSize="16" Foreground="#ffffffff" Canvas.Left="60" Canvas.Top="16"  />
+            </Canvas>
+        </Canvas>
+        <TextBlock  Text="Users are not allowed to pull pranks or put false photos, lest if the user wants to be flagged and reported to the authorities." TextAlignment="center" FontFamily="Roboto"  FontSize="20" Width="284" Height="96" TextWrapping="Wrap" Foreground="#ff000000" Canvas.Left="0" Canvas.Top="0"  />
+    </Canvas>
+</Grid>

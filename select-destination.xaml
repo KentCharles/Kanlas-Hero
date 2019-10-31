@@ -1,0 +1,42 @@
+<Grid Uid="select-destination"  Width="375" Height="812" Background="#ffffffff" ClipToBounds="True" >
+    <Border  Width="375" Height="812" BorderBrush="#ff707070" Margin="0,0,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <Border  Width="375" Height="812" BorderBrush="#ff707070" Margin="0,0,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <Canvas  Width="70" Height="70" Margin="289,643,0,0" HorizontalAlignment="Left" VerticalAlignment="Top">
+        <Ellipse  Width="70" Height="70" Fill="#fffc4f05" Stroke="#ff707070" Canvas.Left="0" Canvas.Top="0"  />
+        <TextBlock  Text="" TextAlignment="left" FontFamily="Font Awesome 5 Free"  FontSize="28" Foreground="#ffffffff" Canvas.Left="19" Canvas.Top="20"  />
+    </Canvas>
+    <Border  Width="375" Height="83" Background="#ffffffff" BorderBrush="#ff707070" Margin="0,729,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <Line  X1="0" Y1="0" X2="162" Y2="0" Stroke="#ff000000" Margin="106.5,799.5,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <Canvas  Width="284" Height="50" Margin="75,73,0,0" HorizontalAlignment="Left" VerticalAlignment="Top">
+        <Border  Width="284" Height="50" Background="#ffffffff" BorderBrush="#ff707070" Canvas.Left="0" Canvas.Top="0"  />
+        <TextBlock  Text="Set destination" TextAlignment="left" FontFamily="Roboto"  FontSize="16" Foreground="#ff4f4f4f" Canvas.Left="22" Canvas.Top="16"  />
+        <TextBlock  Text="" TextAlignment="left" FontFamily="Font Awesome 5 Free"  FontSize="15" Foreground="#ff0076ff" Canvas.Left="241" Canvas.Top="18"  />
+    </Canvas>
+    <Canvas  Width="343" Height="262" Margin="16,129,0,0" HorizontalAlignment="Left" VerticalAlignment="Top">
+        <Border  Width="343" Height="262" Background="#ffffffff" BorderBrush="#ff707070" Canvas.Left="0" Canvas.Top="0"  />
+        <TextBlock  Text="From" TextAlignment="left" FontFamily="Roboto"  FontSize="16" Foreground="#ff4f4f4f" Canvas.Left="22" Canvas.Top="14"  />
+        <TextBlock  Text="To" TextAlignment="left" FontFamily="Roboto"  FontSize="16" Foreground="#ff4f4f4f" Canvas.Left="22" Canvas.Top="83"  />
+        <Line  X1="0" Y1="0" X2="297" Y2="0" Stroke="#ff4f4f4f" Canvas.Left="22.5" Canvas.Top="64.5"  />
+        <TextBlock  Text="Sultan Kudarat, Cotabato City" TextAlignment="left" FontFamily="Roboto"  FontSize="16" Foreground="#ff4f4f4f" Canvas.Left="22" Canvas.Top="42"  />
+        <Line  X1="0" Y1="0" X2="297" Y2="0" Stroke="#ff4f4f4f" Canvas.Left="23.5" Canvas.Top="133.5"  />
+        <TextBlock  Text="Bongabong, Sultan Mastura" TextAlignment="left" FontFamily="Roboto"  FontSize="16" Foreground="#ff4f4f4f" Canvas.Left="23" Canvas.Top="111"  />
+        <Canvas  Width="145" Height="50" Canvas.Left="176" Canvas.Top="195" ><Border  Width="145" Height="50" Background="#ff0076ff" BorderBrush="#ff707070" Canvas.Left="0" Canvas.Top="0"  />
+            <TextBlock  Text="OK" TextAlignment="left" FontFamily="Roboto"  FontSize="16" Foreground="#ffffffff" Canvas.Left="62" Canvas.Top="16"  />
+        </Canvas>
+        <Canvas  Width="145" Height="50" Canvas.Left="23" Canvas.Top="195" >
+            <Border  Width="145" Height="50" Background="#ffc9c9c9" BorderBrush="#ff707070" Canvas.Left="0" Canvas.Top="0"  />
+            <TextBlock  Text="Close" TextAlignment="left" FontFamily="Roboto"  FontSize="16" Foreground="#ffffffff" Canvas.Left="52" Canvas.Top="16"  />
+        </Canvas>
+    </Canvas>
+    <Ellipse  Width="50" Height="50" Stroke="#ff707070" Margin="16,73,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <TextBlock  Text="" TextAlignment="left" FontFamily="Font Awesome 5 Free"  FontSize="38" Foreground="#ff0076ff" Margin="97,741,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <TextBlock  Text="" TextAlignment="left" FontFamily="Font Awesome 5 Free"  FontSize="38" Foreground="#ff8e8e93" Margin="236,741,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <Canvas  Width="375" Height="44" Margin="0,0,0,0" HorizontalAlignment="Left" VerticalAlignment="Top">
+        <Border  Width="375" Height="44" Background="#ffffffff" BorderBrush="#ff707070" Canvas.Left="0" Canvas.Top="0"  />
+        <TextBlock  Text="9:41" TextAlignment="left" FontFamily="Roboto"  FontSize="15" Foreground="#ff000000" Canvas.Left="29" Canvas.Top="13"  />
+        <TextBlock  Text="" TextAlignment="left" FontFamily="Font Awesome 5 Free"  FontSize="15" Foreground="#ff000000" Canvas.Left="337" Canvas.Top="14"  />
+        <TextBlock  Text="" TextAlignment="left" FontFamily="Font Awesome 5 Free"  FontSize="15" Foreground="#ff000000" Canvas.Left="312" Canvas.Top="14"  />
+        <TextBlock  Text="" TextAlignment="left" FontFamily="Font Awesome 5 Free"  FontSize="15" Foreground="#ff000000" Canvas.Left="287" Canvas.Top="14"  />
+    </Canvas>
+    <Path  Width="44" Height="47" Stretch="uniform" Data="M 223.0097351074219 1396 L 223.0097351074219 1443.642456054688 L 267.8932495117188 1443.642456054688 L 223.0097351074219 1396 Z" Fill="#ff0076ff" Stroke="#ff0076ff" Margin="-19.990264892578125,779,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+</Grid>

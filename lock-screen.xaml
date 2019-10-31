@@ -1,0 +1,23 @@
+<Grid Uid="lock-screen"  Width="375" Height="812" Background="#ffffffff" ClipToBounds="True" >
+    <Border  Width="375" Height="812" BorderBrush="#ff707070" Margin="0,0,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <Border  Width="400" Height="812" Background="#ff000000" BorderBrush="#ff707070" Margin="-16,0,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <Border  Width="375" Height="812" BorderBrush="#ff707070" Margin="0,0,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <Line  X1="0" Y1="0" X2="162" Y2="0" Stroke="#ffffffff" Margin="106.5,799.5,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <Canvas  Width="327" Height="18" Margin="29,13,0,0" HorizontalAlignment="Left" VerticalAlignment="Top">
+        <TextBlock  Text="9:41" TextAlignment="left" FontFamily="Roboto"  FontSize="15" Foreground="#ffffffff" Canvas.Left="0" Canvas.Top="0"  />
+        <TextBlock  Text="" TextAlignment="left" FontFamily="Font Awesome 5 Free"  FontSize="15" Foreground="#ffffffff" Canvas.Left="308" Canvas.Top="1"  />
+        <TextBlock  Text="" TextAlignment="left" FontFamily="Font Awesome 5 Free"  FontSize="15" Foreground="#ffffffff" Canvas.Left="283" Canvas.Top="1"  />
+        <TextBlock  Text="" TextAlignment="left" FontFamily="Font Awesome 5 Free"  FontSize="15" Foreground="#ffffffff" Canvas.Left="258" Canvas.Top="1"  />
+    </Canvas>
+    <TextBlock  Text="9:41" TextAlignment="center" FontFamily="Roboto"  FontSize="87" Foreground="#ffffffff" Margin="104,97,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <TextBlock  Text="Sunday, 20 October" TextAlignment="center" FontFamily="Roboto"  FontSize="23" Foreground="#ffffffff" Margin="90,198,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <Border  Width="343" Height="99" Background="#ffffffff" BorderBrush="#ff707070" Margin="16,263,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <TextBlock  Text="Weather Update: " TextAlignment="left" FontFamily="Roboto"  FontSize="15" Foreground="#ff000000" Margin="32,306,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <TextBlock  Text="2m ago" TextAlignment="center" FontFamily="Roboto"  FontSize="12" Foreground="#ff000000" Margin="302,279,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <Ellipse  Width="16" Height="16" Fill="#ff0076ff" Stroke="#ff707070" Margin="34,276,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <Ellipse  Width="16" Height="16" Fill="#fffc4f05" Stroke="#ff707070" Margin="53,276,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <Path  Width="14" Height="15" Stretch="uniform" Data="M 223.0097351074219 1396 L 223.0097351074219 1411.812133789063 L 237.9062194824219 1411.812133789063 L 223.0097351074219 1396 Z" Fill="#ff0076ff" Stroke="#ff0076ff" Margin="71.8389892578125,276.0692138671875,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <TextBlock  Text="Kanlas Hero" TextAlignment="center" FontFamily="Roboto"  FontSize="15" Foreground="#fffc4f05" Margin="96,277,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <Line  X1="0" Y1="0" X2="308" Y2="0" Stroke="#ff707070" Margin="33.5,299.5,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+    <TextBlock  Text="Probability of rain in your area increased to 100%" TextAlignment="left" FontFamily="Roboto"  FontSize="14.5" Foreground="#ff000000" Margin="32,326,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+</Grid>
